@@ -1,3 +1,6 @@
 {
-	"deploy test": "deploy test"
+	"deploy test": "deploy test",
+	"download fc-deploy ncc test": "download fc-deploy ncc test",
+	"download website not ncc test": "download website not ncc test",
+	"download many component": "download many component"
 }

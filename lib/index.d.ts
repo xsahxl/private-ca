@@ -8,6 +8,12 @@ export default class ComponentDemo extends BaseComponent {
      * @returns
      */
     test(inputs: InputProps): Promise<{
-        hello: string;
+        fcdeploy: any;
+        website: any;
+        domain: any;
+        jamstack: any;
+        fcapi: any;
+        fcdefault: any;
+        fcbasesdk: any;
     }>;
 }
